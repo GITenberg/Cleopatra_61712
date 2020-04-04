@@ -6,6 +6,9 @@ contributor:
     agent_name: Poindexter, M. E.
     gutenberg_agent_id: '51578'
     url: http://www.gutenberg.org/2009/agents/51578
+covers:
+- cover_type: archival
+  image_path: 61712-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Ferval, Claude
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51577
     wikipedia: https://fr.wikipedia.org/wiki/Claude_Ferval
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61712#Cleopatra
 gutenberg_issued: '2020-03-30'
 gutenberg_type: Text
 identifiers:

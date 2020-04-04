@@ -1,0 +1,40 @@
+_repo: Cleopatra_61712
+_version: 0.0.1
+alternative_title: The life and death of Cleopatra
+contributor:
+  translator:
+    agent_name: Poindexter, M. E.
+    gutenberg_agent_id: '51578'
+    url: http://www.gutenberg.org/2009/agents/51578
+creator:
+  author:
+    agent_name: Ferval, Claude
+    aliases:
+    - Thomas-Galline, Marguerite
+    - Aimery Harty de Pierrebourg, Marguerite
+    - Harty de Pierrebourg, Marguerite Aimery
+    - Pierrebourg, Aimery Harty, baronne de
+    - Pierrebourg, Madame de (Marguerite Thomas-Galline Aimery)
+    - Pierrebourg, Marguerite Thomas-Galline Aimery de, baronne
+    - Aimeri de Pierrebourg, Marguerite
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '51577'
+    url: http://www.gutenberg.org/2009/agents/51577
+    wikipedia: https://fr.wikipedia.org/wiki/Claude_Ferval
+description: ''
+gutenberg_issued: '2020-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Egypt -- History -- 332-30 B.C. -- Fiction'
+- !lcsh 'Cleopatra, Queen of Egypt, -30 B.C. -- Fiction'
+- GITenberg
+title: Cleopatra
+url: http://www.gutenberg.org/ebooks/61712
